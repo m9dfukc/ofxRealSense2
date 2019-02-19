@@ -27,8 +27,6 @@ vs:
 	ADDON_DLLS_TO_COPY = "libs/librealsense2/export/realsense2.dll"
 
 linux64:
-	ADDON_LDFLAGS = "../../../addons/ofxLibRealSense2/libs/librealsense2/lib/linux64/librealsense2.so"
-
 linux:
 win_cb:
 linuxarmv6l:
